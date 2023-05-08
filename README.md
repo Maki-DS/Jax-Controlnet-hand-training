@@ -51,6 +51,7 @@ As Stable diffusion and other diffusion models are notoriously poor at generatin
         We anecdotally determined that when trained at lower steps the encoded hand model performed better than the standard MediaPipe model due to implied handedness. We theorize that with a larger dataset of more full-body hand and pose classifications, Holistic landmarks will provide the best images in the future however for the moment the hand-encoded model performs best.
 
 <h2><b>Links 🔗</b></h2>
+
 ### Models 🚀
 <h4><a href="https://huggingface.co/Vincent-luo/controlnet-hands">Standard Model</a></h4>
 <h4> <a href="https://huggingface.co/MakiPan/controlnet-encoded-hands-130k/">Model using Hand Encoding</a></h4>
